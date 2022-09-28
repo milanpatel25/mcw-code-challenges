@@ -107,8 +107,6 @@ Rules!
 
 <p align="right">(<a href="#readme-top">back to table of contents</a>)</p>
 
-
-
 <!-- CONTRIBUTING -->
 ## Contributing
 
